@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mdi/font": "^7.3.67",
     "next": "13.5.4",
     "next-auth": "^4.23.2",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@iconify/icons-ic": "^1.2.13",
+    "@iconify/react": "^4.1.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
